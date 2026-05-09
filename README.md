@@ -1,7 +1,8 @@
 # Unified Multimodal Framework for Chest X-Ray Retrieval and Disease Prediction
 
-This repository contains the official implementation of **"A Unified Multimodal Framework for Chest X-Ray Retrieval and Disease Prediction: Towards Interpretable and Reproducible Medical AI."**  
+This repository contains the official implementation of **"A unified multimodal framework for chest X-ray retrieval and disease prediction for clinical decision support."**  
 It was developed as part of the HCMUS final project and integrates multimodal learning, retrieval, and explainability for medical imaging.
+Published at Computers in Biology and Medicine
 
 ---
 
